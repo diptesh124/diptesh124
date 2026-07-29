@@ -8,8 +8,15 @@ Computer Science Graduate 🎓<br>
 Always learning and building cool projects 🚀
 </em></p>
 
-[![Linkedin: dipteshdas](https://img.shields.io/badge/-Diptesh%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diptesh-das-7bb098257/)](https://www.linkedin.com/in/diptesh-das-7bb098257/)
-[![GitHub Diptesh](https://img.shields.io/github/followers/diptesh124?label=follow&style=social)](https://github.com/diptesh124)
+<p align="left">
+  <a href="https://diptesh-das.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/diptesh-das-7bb098257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
