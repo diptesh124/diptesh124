@@ -9,20 +9,22 @@ Always learning and building cool projects 🚀
 </em></p>
 
 <p align="left">
-  <a href="https://portfolio-peach-six-g6dl5t16dn.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"
-      height="38"
-      alt="Portfolio"/>
+  <a href="https://portfolio-peach-six-g6dl5t16dn.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/diptesh-das-7bb098257/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="38"
-      alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/diptesh-das-7bb098257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+       width="40"
+       align="center">
+  <strong style="font-size:36px;">A little more about me...</strong>
+</p>
+
 
 ```javascript
 const diptesh = {
